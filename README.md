@@ -18,3 +18,4 @@ Text Recognition Material collect list of resources dedicated to scene text reco
 1. [Scene-Text-Recognition-Recommendations](https://github.com/HCIILAB/Scene-Text-Recognition-Recommendations)
 2. [awesome-deep-text-detection-recognition](https://github.com/hwalsuklee/awesome-deep-text-detection-recognition)
 3. [Awesome-Scene-Text-Recognition](https://github.com/chongyangtao/Awesome-Scene-Text-Recognition)
+4. [What If We Only Use Real Datasets for Scene Text Recognition? Toward Scene Text Recognition With Fewer Labels](https://openaccess.thecvf.com/content/CVPR2021/html/Baek_What_if_We_Only_Use_Real_Datasets_for_Scene_Text_CVPR_2021_paper.html)
