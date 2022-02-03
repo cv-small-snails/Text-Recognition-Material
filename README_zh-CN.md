@@ -7,7 +7,7 @@ Text Recognition Material 收集关于文字识别领域的各种资源
 ## 1. 论文
 **[所有的论文可以在这里找到](./papers.md)**
 ## 2. 数据集
-**[ 所有的数据集可以在这里找到 ](./datasets.md)**
+**[ 所有的数据集可以在这里找到 ](./datasets_zh-CN.md)**
 ## 3. 开源代码
 **[ 所有的开源代码可以在这里找到 ](./public_code.md)**
 ## 4. 综述
