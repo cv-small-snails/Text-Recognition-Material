@@ -1,8 +1,8 @@
 ## 目录
 - [1.合成数据集](#1合成数据集)
-- [2.真实数据集](#2real-datasets)
-  - [2.1.基准数据集](#21benchmarks)
-  - [2.2.其它真实数据集](#22others-labeled-datasets)
+- [2.真实数据集](#2真实数据集)
+  - [2.1.基准数据集](#21基准数据集)
+  - [2.2.其它真实数据集](#22其它真实数据集)
 
 ## 1.合成数据集
 - **文本识别需要大量的数据, 所以合成数据集常用来做预训练**
@@ -43,6 +43,6 @@
 |**TextOCR**|**90K in English**. TextOCR 数据集是为识别任意形状的文本而构建的. 它包含许多不规则文本 |![TextOCR](./Dataset_images/ReCTS2.jpg)|[Others(提取码:DLVC)](https://pan.baidu.com/s/1o-7-zyUnwo44M4P6SzFkpg)|
 |**OpenVINO**||||
 |**FSNS**||||
-|**中文场景文字识别技术创新大赛**|**290k 中文数据**. 数据集共包括约29万张图片，其中21万张图片作为训练集，8万张作为测试集。所有图像都经过一些预处理，将文字区域利用仿射变化，等比映射为一张高为48像素的图片.||[Others](https://aistudio.baidu.com/aistudio/datasetdetail/8429)|
-|**中文场景文字识别技术创新大赛**|**60k 中文数据**. 数据集共包括6万张图片，其中5万张图片作为训练集，1万张作为测试集。数据集采自中国街景，并由街景图片中的文字行区域（例如店铺标牌、地标等等）截取出来而形成.||[Others](https://aistudio.baidu.com/aistudio/competition/detail/20/0/task-definition)|
+|**中文场景文字识别技术创新大赛**|**290k 中文数据**. 数据集共包括约29万张图片，其中21万张图片作为训练集，8万张作为测试集。所有图像都经过一些预处理，将文字区域利用仿射变化，等比映射为一张高为48像素的图片.|![IIIT5K](./Dataset_images/CSTRTIC.jpg)|[Others](https://aistudio.baidu.com/aistudio/datasetdetail/8429)|
+|**中文场景文字识别常规赛**|**60k 中文数据**. 百度中文场景文字识别常规赛数据集共包括6万张图片，其中5万张图片作为训练集，1万张作为测试集。数据集采自中国街景，并由街景图片中的文字行区域（例如店铺标牌、地标等等）截取出来而形成.|![IIIT5K](./Dataset_images/CSTRRC.jpg)|[Others](https://aistudio.baidu.com/aistudio/competition/detail/20/0/task-definition)|
 |**MTWI 2018**|**20k 中文数据**.该数据集基于网络图片的中英混合数据集，数据量充分，涵盖几十种字体，几个到几百像素字号，多种版式，较多干扰背景.||[Others](https://tianchi.aliyun.com/competition/entrance/231684/information)|
