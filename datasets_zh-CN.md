@@ -41,8 +41,11 @@
 |**MLT19**|**46K in English**. MLT19 是为了识别多语言文本而创建。 它由十种语言组成：中文、日语、韩语、英语、法语、阿拉伯语、意大利语、德语、孟加拉语和印地语. 这里选择的是英文文本部分|![IIIT5K](./Dataset_images/MLT190.jpg)|[Others(提取码:DLVC)](https://pan.baidu.com/s/1o-7-zyUnwo44M4P6SzFkpg)|
 |**ReCTS**|**23K in English**. ReCTS 是为识别招牌上的中文文本比赛而创建的. 它包含许多以各种版式或用独特字体书写的不规则文本。这里选择的是英文文本部分|![IIIT5K](./Dataset_images/ReCTS2.jpg)|[Others(提取码:DLVC)](https://pan.baidu.com/s/1o-7-zyUnwo44M4P6SzFkpg)|
 |**TextOCR**|**90K in English**. TextOCR 数据集是为识别任意形状的文本而构建的. 它包含许多不规则文本 |![TextOCR](./Dataset_images/ReCTS2.jpg)|[Others(提取码:DLVC)](https://pan.baidu.com/s/1o-7-zyUnwo44M4P6SzFkpg)|
+|**SCOIE 2019**|**1k 英文票据数据**.该数据集包含1000张国际票据扫描图像，其中600张用作训练数据，400张为测试数据.||[Others](https://tianchi.aliyun.com/competition/entrance/231684/information)|
+|**COCO-Text V2.0**|**230k 英文数据**.该数据集包含63686张原始图像24万个文本图像，标签中由文本图像的mask，每个文本都有三个属性：印刷与手写，清晰与难以辨认，英语与非英语.||[Others](https://tianchi.aliyun.com/competition/entrance/231684/information)|
 |**OpenVINO**||||
 |**FSNS**||||
-|**中文场景文字识别技术创新大赛**|**290k 中文数据**. 数据集共包括约29万张图片，其中21万张图片作为训练集，8万张作为测试集。所有图像都经过一些预处理，将文字区域利用仿射变化，等比映射为一张高为48像素的图片.|![IIIT5K](./Dataset_images/CSTRTIC.jpg)|[Others](https://aistudio.baidu.com/aistudio/datasetdetail/8429)|
-|**中文场景文字识别常规赛**|**60k 中文数据**. 百度中文场景文字识别常规赛数据集共包括6万张图片，其中5万张图片作为训练集，1万张作为测试集。数据集采自中国街景，并由街景图片中的文字行区域（例如店铺标牌、地标等等）截取出来而形成.|![IIIT5K](./Dataset_images/CSTRRC.jpg)|[Others](https://aistudio.baidu.com/aistudio/competition/detail/20/0/task-definition)|
+|**百度中文场景文字识别技术创新大赛**|**290k 中文数据**. 数据集共包括约29万张图片，其中21万张图片作为训练集，8万张作为测试集。所有图像都经过一些预处理，将文字区域利用仿射变化，等比映射为一张高为48像素的图片.|![IIIT5K](./Dataset_images/CSTRTIC.jpg)|[Others](https://aistudio.baidu.com/aistudio/datasetdetail/8429)|
+|**百度中文场景文字识别常规赛**|**60k 中文数据**. 百度中文场景文字识别常规赛数据集共包括6万张图片，其中5万张图片作为训练集，1万张作为测试集。数据集采自中国街景，并由街景图片中的文字行区域（例如店铺标牌、地标等等）截取出来而形成.|![IIIT5K](./Dataset_images/CSTRRC.jpg)|[Others](https://aistudio.baidu.com/aistudio/competition/detail/20/0/task-definition)|
+|**百度轻量级文字识别技术创新大赛**|**120k 中文数据**. 百度中文场景文字识别常规赛数据集共包括12万张图片，其中10万张图片作为训练集，2万张作为测试集。数据集既有来自街景的图片（例如店铺标牌、地标等），也有来自文档、网图截取的图片。|![IIIT5K](./Dataset_images/CSTRRC.jpg)|[Others](https://aistudio.baidu.com/aistudio/competition/detail/20/0/task-definition)|
 |**MTWI 2018**|**20k 中文数据**.该数据集基于网络图片的中英混合数据集，数据量充分，涵盖几十种字体，几个到几百像素字号，多种版式，较多干扰背景.||[Others](https://tianchi.aliyun.com/competition/entrance/231684/information)|
