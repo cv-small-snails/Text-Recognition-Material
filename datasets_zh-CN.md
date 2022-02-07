@@ -49,3 +49,4 @@
 |**百度中文场景文字识别常规赛**|**60k 中文数据**. 百度中文场景文字识别常规赛数据集共包括6万张图片，其中5万张图片作为训练集，1万张作为测试集。数据集采自中国街景，并由街景图片中的文字行区域（例如店铺标牌、地标等等）截取出来而形成.|![IIIT5K](./Dataset_images/CSTRRC.jpg)|[Others](https://aistudio.baidu.com/aistudio/competition/detail/20/0/task-definition)|
 |**百度轻量级文字识别技术创新大赛**|**120k 中文数据**. 百度中文场景文字识别常规赛数据集共包括12万张图片，其中10万张图片作为训练集，2万张作为测试集。数据集既有来自街景的图片（例如店铺标牌、地标等），也有来自文档、网图截取的图片。|![IIIT5K](./Dataset_images/CSTRRC.jpg)|[Others](https://aistudio.baidu.com/aistudio/competition/detail/20/0/task-definition)|
 |**MTWI 2018**|**20k 中文数据**.该数据集基于网络图片的中英混合数据集，数据量充分，涵盖几十种字体，几个到几百像素字号，多种版式，较多干扰背景.||[Others](https://tianchi.aliyun.com/competition/entrance/231684/information)|
+|**TC-STR **|**7k 繁体中文数据**.该数据集为繁体中文数据集，从谷歌图片中收集1554张图像生成了7543张文本图像||[Others](https://github.com/gitycc/traditional-chinese-text-recogn-dataset)|
