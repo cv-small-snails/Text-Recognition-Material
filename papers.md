@@ -1,3 +1,6 @@
+## Text Recognition
+* *CODE means official code and CODE means not official code
+
 *Conf.* | *Date* | *Title* | *Highlight* | *code* |
 :---: | :---: |:--- | :---: | :---: |
 AAAI | 2022 |[Text Gestalt: Stroke-Aware Scene Text Image Super-Resolution](https://arxiv.org/pdf/2112.08171.pdf) | Attention | [*CODE](https://github.com/FudanVI/FudanOCR/tree/main/text-gestalt) |
@@ -30,3 +33,11 @@ AAAI | 2020 | [Textscanner: Reading characters in order for robust scene text re
 AAAI | 2020 | [Decoupled attention network for text recognition](https://ojs.aaai.org/index.php/AAAI/article/view/6903) | Attention | [*CODE](https://github.com/Wang-Tianwei/Decoupled-attention-network) |
 PR | 2020 | [Reinterpreting CTC training as iterative fitting](https://arxiv.org/pdf/1904.10619.pdf) | CTC | [*CODE](https://github.com/hzli-ucas/caffe/tree/ctc) |
 Neural Computing | 2020 | [Adaptive embedding gate for attention-based scene text recognition](https://www.sciencedirect.com/science/article/pii/S0925231219316510) | Others | No |
+CVPR | 2019 | [ESIR: End-to-end scene text recognition via iterative image rectification](https://openaccess.thecvf.com/content_CVPR_2019/html/Zhan_ESIR_End-To-End_Scene_Text_Recognition_via_Iterative_Image_Rectification_CVPR_2019_paper.html) | Rectification Model | No |
+CVPR | 2019 | [Sequence-to-sequence domain adaptation network for robust text image recognition](https://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_Sequence-To-Sequence_Domain_Adaptation_Network_for_Robust_Text_Image_Recognition_CVPR_2019_paper.html) | Others | No |
+CVPR | 2019 | [Aggregation Cross-Entropy for Sequence Recognition](https://openaccess.thecvf.com/content_CVPR_2019/html/Xie_Aggregation_Cross-Entropy_for_Sequence_Recognition_CVPR_2019_paper.html) | Others | [*CODE](https://github.com/summerlvsong/Aggregation-Cross-Entropy) |
+ICCV | 2019 | [What is wrong with scene text recognition model comparisons? dataset and model analysis](https://openaccess.thecvf.com/content_ICCV_2019/html/Baek_What_Is_Wrong_With_Scene_Text_Recognition_Model_Comparisons_Dataset_ICCV_2019_paper.html) | Attention | [*CODE](https://github.com/clovaai/deep-text-recognition-benchmark) |
+ICCV | 2019 | [Symmetry-constrained Rectification Network for Scene Text Recognition](https://arxiv.org/abs/1908.01957) | Rectification Model | No |
+AAAI | 2019 | [Show, attend and read: A simple and strong baseline for irregular text recognition](https://ojs.aaai.org/index.php/AAAI/article/view/4881) | Rectification Model | [*CODE](https://github.com/wangpengnorman/SAR-Strong-Baseline-for-Text-Recognition)|
+ICDAR | 2019 | [NRTR: A No-Recurrence Sequence-to-Sequence Model For Scene Text Recognition](https://ieeexplore.ieee.org/abstract/document/8978180) | Attention | [CODE](https://github.com/open-mmlab/mmocr) |
+IEEE Access | 2019 | [Natural Scene Text Recognition Based on Encoder-Decoder Framework](https://ieeexplore.ieee.org/abstract/document/8713973) | CTC | No |
